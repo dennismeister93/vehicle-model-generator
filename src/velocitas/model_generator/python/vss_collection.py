@@ -17,7 +17,7 @@
 import re
 from typing import List
 
-# Until vsspec issue will be fixed: https://github.com/COVESA/vss-tools/issues/208
+# Until vsspec issue will be fixed: https://github.com/USER/vss-tools/issues/208
 from vspec.model.vsstree import VSSNode  # type: ignore
 
 from velocitas.model_generator.utils import CodeGeneratorContext
